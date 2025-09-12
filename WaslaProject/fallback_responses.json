@@ -1,3 +1,26 @@
 {
-  
+  "quick_questions": {
+    "📝 Registration": [
+      "You can register directly here: https://wasla-hackathon.com/register",
+      "Registration closes on September 20, 2025."
+    ],
+    "🏆 Prizes": [
+      "1st Place: 50,000 SAR",
+      "2nd Place: 15,000 SAR",
+      "3rd Place: 7,000 SAR"
+    ],
+    "📅 Schedule": [
+      "Opening Ceremony: September 25, 2025",
+      "Hacking Days: September 26–28, 2025",
+      "Final Pitch: September 29, 2025"
+    ],
+    "📞 Contact": [
+      "Email: support@wasla-hackathon.com",
+      "Phone: +966 54 123 4567"
+    ],
+    "💻 Tech Info": [
+      "We provide cloud credits, APIs, and development toolkits.",
+      "Supported platforms: AI, Web, Mobile, and IoT."
+    ]
+  }
 }
